@@ -1,4 +1,4 @@
-name: Ubuntu_RDP
+name: aXoNeli
 
 on: 
   workflow_dispatch:
